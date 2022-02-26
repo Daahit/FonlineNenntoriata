@@ -1,0 +1,8 @@
+\Server\dumps
+\Server\logs
+\Client\data\cache
+*.log
+*.fomapb
+*.fo
+*.fosp
+*.cache
